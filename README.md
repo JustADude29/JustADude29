@@ -3,7 +3,7 @@
 
 - 🏛️ Pre-final yearite at IIT Guwahati, Mathematics and Computing
 
-- 🌱 I’m currently learning **C/C++ software developmentL**
+- 🌱 I’m currently learning **C/C++ software development**
 \
 - 🔭 I’m currently working on an [Operating System Made in C](https://github.com/JustADude29/bOSs)
 
