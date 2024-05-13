@@ -3,11 +3,11 @@
 
 - 🏛️ Pre-final yearite at IIT Guwahati, Mathematics and Computing
 
-- 🌱 I’m currently learning **C++ software development and OpenGL**
+- 🌱 I’m currently learning **C/C++ software developmentL**
 \
-- 🔭 I’m currently working on [Ray Marching Game Engine](https://github.com/JustADude29/RayMarcherEngine)
+- 🔭 I’m currently working on an [Operating System Made in C](https://github.com/JustADude29/bOSs)
 
-- 💬 Ask me about **Graphical Programming and Web Development**
+- 💬 Ask me about **Graphical Programming and Web Development and OS Development**
 
 - 📫 Contact me on **pavankumar82903@gmail.com**
 
